@@ -140,7 +140,24 @@ a {
 
 
 
+#browser-shade-tai {
+  width:300px;
+  height:30px;
+  background:#ffe5e5;
+  top:160px;
+  position:relative;
+  margin-left:1000px;
+  border-radius:3px;
+  
+}
 
+#browser-shade-tai ul {
+  list-style-type:none;
+  padding:6px;
+  font-family: 'Itim', cursive;
+  font-size:12px;
+  opacity:1;
+}
 
 
 
@@ -176,25 +193,7 @@ donate {
 
 
 
-#browser-shade-tai {
-  width:250px;
-  height:190px;
-  background:#e79090b5;
-  top:440px;
-  position:absolute;
-  margin-right:50px;
-  border-radius:3px;
-  margin-left:1030px;
-  text-align:center;
-  
-}
-#browser-shade-tai ul {
-  list-style-type:none;
-  padding:45px;
-  font-family: 'Saira', sans-serif;
-  font-size:16px;
-  opacity:1;
-}
+
 
 
 
