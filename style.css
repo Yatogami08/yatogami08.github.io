@@ -163,13 +163,13 @@ a {
   width:300px;
   height:30px;
   background:#ffe5e5;
-  top:30px;
+  top:-99px;
   position:relative;
   margin-left:1000px;
   border-radius:3px;
   
 }
-
+a
 #browser-shade-tai ul {
   list-style-type:none;
   padding:6px;
