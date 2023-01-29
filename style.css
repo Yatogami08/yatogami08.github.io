@@ -175,6 +175,30 @@ donate {
 }
 
 
+
+#browser-shade-tai {
+  width:250px;
+  height:190px;
+  background:#e79090b5;
+  top:440px;
+  position:absolute;
+  margin-right:50px;
+  border-radius:3px;
+  margin-left:1030px;
+  text-align:center;
+  
+}
+#browser-shade-tai ul {
+  list-style-type:none;
+  padding:45px;
+  font-family: 'Saira', sans-serif;
+  font-size:16px;
+  opacity:1;
+}
+
+
+
+
 @keyframes floater {
   0% {
     margin-top:250px;
