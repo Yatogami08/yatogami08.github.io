@@ -179,7 +179,24 @@ a {
 }
 
 
+#browser-shade-8 {
+  width:400px;
+  height:130px;
+  background:#ffe5e5;
+  top:30px;
+  position:relative;
+  margin-left:540px;
+  border-radius:3px;
+  
+}
 
+#browser-shade-8 ul {
+  list-style-type:none;
+  padding:6px;
+  font-family: 'Itim', cursive;
+  font-size:12px;
+  opacity:1;
+}
 
 
 
