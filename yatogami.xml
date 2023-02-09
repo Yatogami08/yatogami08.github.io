@@ -3,5 +3,5 @@
     <version>2.0.0.0</version>
     <url>https://laptrinhvb.net/TestAutoUpdate.zip</url>
     <changelog>Phiên Bản 2.0.0.0 : Thêm 1 số tính năng mới</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
